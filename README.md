@@ -1,284 +1,229 @@
+<div align="center">
+
 # 👋 Hi, I'm Rohit Raj
 
-### `Assistant System Engineer @ TCS` | `Python` | `AI/ML` | `GenAI` | `LLMs`
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=500&color=3AF926&random=false&width=600&lines=Assistant+System+Engineer+%40+TCS;Python+%7C+AI%2FML+%7C+Generative+AI;Exploring+LLMs+%26+Context+Engineering;IoT+%7C+Embedded+Systems;Building+Intelligent+Systems)](https://git.io/typing-svg)
 
-> **Building my journey from connected devices to intelligent systems.** 🚀
+<img src="https://img.shields.io/badge/Python-AI%20%7C%20ML%20%7C%20Automation-brightgreen?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%2FML-Learning%20%26%20Building-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GenAI-Exploring-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IoT-Embedded%20Systems-blue?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
 
-I'm an Electronics & Communication Engineering graduate and software/AI enthusiast focused on building practical solutions with **Python, AI/ML, Generative AI, LLMs, and IoT**.
-
-I'm currently exploring **Context Engineering, Agentic AI, and intelligent systems**, while continuously strengthening my programming and software engineering fundamentals.
-
----
-
-## 🧠 About Me
-
-* 💼 Assistant System Engineer at **Tata Consultancy Services**
-* 🎓 B.Tech in **Electronics & Communication Engineering**
-* 🐍 Currently strengthening my **Python** and software development skills
-* 🤖 Exploring **AI/ML, Generative AI, LLMs & Agentic AI**
-* 🧩 Learning **Context Engineering** and modern AI application development
-* 🌐 Background in **IoT & Embedded Systems**
-* ☁️ Interested in **Cloud, AI Engineering & intelligent automation**
-* 🔨 I enjoy learning by **building projects and experimenting**
-* 🚀 Long-term goal: **Build production-ready AI-powered systems**
+</div>
 
 ---
 
-## 🔭 Currently Working On
+## 🚀 About Me
 
-```text
-Python
-  ↓
-Data & Machine Learning
-  ↓
-Generative AI
-  ↓
-LLMs
-  ↓
-Context Engineering
-  ↓
-Agentic AI
-  ↓
-AI Engineering
-```
+Assistant System Engineer at **Tata Consultancy Services (TCS)** with a background in **Electronics & Communication Engineering** and a strong interest in software, artificial intelligence, and intelligent systems.
+
+I started my technical journey with **IoT and embedded systems** and am now expanding toward **Python, Machine Learning, Generative AI, LLMs, and Context Engineering**.
+
+I enjoy learning by building practical projects, experimenting with new technologies, and turning concepts into working solutions.
 
 ---
 
-## 🛠️ Tech Stack
+## 🎯 Current Focus
 
-### 👨‍💻 Programming
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</p>
-
-### 🤖 AI / ML
-
-<p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=orange"/>
-  <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Context%20Engineering-0A7B83?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Agentic%20AI-111827?style=for-the-badge"/>
-</p>
-
-### 🌐 IoT / Embedded
-
-<p>
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IoT-0066FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Embedded%20Systems-333333?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-
-### 🗄️ Data / Backend
-
-<p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+- 🐍 Strengthening **Python & Software Development**
+- 🤖 Learning **Artificial Intelligence & Machine Learning**
+- ✨ Exploring **Generative AI**
+- 🧠 Exploring **Large Language Models (LLMs)**
+- 🧩 Learning **Context Engineering**
+- 🤝 Exploring **Agentic AI**
+- 🌐 Building on my **IoT & Embedded Systems** foundation
+- ☁️ Exploring **Cloud & AI Engineering**
 
 ---
 
-## 🚀 Featured Projects
+## 🛠 Tech Stack
+
+### 🐍 Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+
+### 🤖 AI / Machine Learning
+
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-412991?style=flat&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+### 🧠 Generative AI
+
+![Generative AI](https://img.shields.io/badge/Generative%20AI-8A2BE2?style=flat&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat&logoColor=white)
+![Context Engineering](https://img.shields.io/badge/Context%20Engineering-0A7B83?style=flat&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-111827?style=flat&logoColor=white)
+
+### 🌐 IoT / Embedded Systems
+
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-0066FF?style=flat&logoColor=white)
+![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-333333?style=flat&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+### 🗄️ Database
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+### 🔧 Tools & Development
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🏗️ Featured Projects
 
 ### 🌦️ IoT Weather Reporting & Prediction System
 
-**Raspberry Pi • Python • DHT11 • BMP180 • ThingSpeak • Machine Learning**
+**Raspberry Pi 3 B+ • Python • DHT11 • BMP180 • Rain Sensor • LCD • ThingSpeak • Machine Learning**
 
-An IoT-based weather monitoring system that collects environmental data and sends it to the cloud for visualization and analysis.
+An IoT-based weather monitoring and prediction system developed using Raspberry Pi.
 
-**Key features:**
+**Features:**
 
-* 🌡️ Temperature monitoring
-* 💧 Humidity monitoring
-* 🌬️ Atmospheric pressure monitoring
-* 🌧️ Rain detection
-* ☁️ Cloud-based data visualization
-* 🤖 Machine-learning-based prediction
+- 🌡️ Temperature monitoring
+- 💧 Humidity monitoring
+- 🌬️ Atmospheric pressure monitoring
+- 🌧️ Rain detection
+- 📟 LCD-based local display
+- ☁️ ThingSpeak cloud integration
+- 🤖 Machine-learning-based prediction
+- 📊 Environmental data analysis
 
-**Repository:** `YOUR_PROJECT_REPOSITORY_LINK`
-
----
-
-### 🤖 AI / ML Projects
-
-A collection of practical experiments covering:
-
-* Python
-* Data preprocessing
-* Machine Learning
-* Regression
-* Prediction
-* Model evaluation
-* AI experimentation
-
-**Repository:** `YOUR_AI_ML_REPOSITORY_LINK`
+🔗 **Repository:**  
+`https://github.com/YOUR_USERNAME/iot-weather-reporting-system`
 
 ---
 
-### 🧠 Generative AI & LLM Experiments
+### 🤖 Machine Learning Lab
 
-Experiments and learning projects focused on:
+A collection of Python-based Machine Learning experiments covering:
 
-* Prompt Engineering
-* Context Engineering
-* LLM applications
-* Retrieval-Augmented Generation
-* Agentic AI
-* AI workflows
+- Data preprocessing
+- Exploratory data analysis
+- Regression
+- Prediction
+- Model evaluation
+- Scikit-learn workflows
 
-**Repository:** `YOUR_GENAI_REPOSITORY_LINK`
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="YOUR_GITHUB_STATS_IMAGE_URL" height="170"/>
-  <img src="YOUR_TOP_LANGUAGES_IMAGE_URL" height="170"/>
-</p>
+🔗 **Repository:**  
+`https://github.com/YOUR_USERNAME/machine-learning-lab`
 
 ---
 
-## 🔥 GitHub Streak
+### 🧠 Generative AI & LLM Lab
 
-<p align="center">
-  <img src="YOUR_GITHUB_STREAK_IMAGE_URL"/>
-</p>
+A growing collection of experiments while learning:
+
+- Prompt Engineering
+- Context Engineering
+- LLM applications
+- RAG
+- Generative AI
+- Agentic AI
+
+🔗 **Repository:**  
+`https://github.com/YOUR_USERNAME/genai-lab`
 
 ---
 
-## 🐍 Contribution Graph
+## 🏢 Current Work
 
-<p align="center">
-  <img src="YOUR_SNAKE_CONTRIBUTION_IMAGE_URL"/>
-</p>
+- 💼 Working as an **Assistant System Engineer at TCS**
+- 🐍 Working with and strengthening **Python**
+- 📚 Building software engineering fundamentals
+- 🤖 Exploring AI/ML and Generative AI
+- 🧠 Learning Context Engineering
+- 🔬 Experimenting with LLM-based applications
+- 🌐 Applying my IoT background to intelligent systems
 
 ---
 
-## 📈 My Learning Journey
+## 📚 Currently Learning
+
+### 🐍 Python
+
+- Object-Oriented Programming
+- Data Structures
+- Algorithms
+- APIs
+- Automation
+- File Handling
+- Exception Handling
+- Advanced Python
+
+### 🤖 AI / ML
+
+- NumPy
+- Pandas
+- Data preprocessing
+- Supervised Learning
+- Regression
+- Classification
+- Model evaluation
+- ML pipelines
+
+### 🧠 Generative AI
+
+- Prompt Engineering
+- Context Engineering
+- LLM fundamentals
+- RAG
+- Embeddings
+- AI application development
+- Agentic AI
+
+### ⚙️ Engineering
+
+- Git & GitHub
+- Linux
+- SQL
+- Cloud fundamentals
+- Deployment
+- Software engineering practices
+
+---
+
+## 🗺️ My Learning Journey
 
 ```text
-ECE
- │
- ├── Electronics
- ├── Embedded Systems
- └── IoT
-       │
-       ▼
-    Python
-       │
-       ▼
- Data & Programming
-       │
-       ▼
-    AI / ML
-       │
-       ▼
- Generative AI
-       │
-       ▼
-      LLMs
-       │
-       ▼
-Context Engineering
-       │
-       ▼
-   Agentic AI
-       │
-       ▼
- AI Engineering 🚀
-```
-
----
-
-## 🎯 2026 Goals
-
-* [ ] Strengthen advanced Python
-* [ ] Master Data Structures & Algorithms
-* [ ] Build stronger Machine Learning fundamentals
-* [ ] Develop practical GenAI applications
-* [ ] Learn LLM application architecture
-* [ ] Master Context Engineering
-* [ ] Explore Agentic AI
-* [ ] Build production-quality AI projects
-* [ ] Improve Git & GitHub workflow
-* [ ] Deploy projects to the cloud
-
----
-
-## 🌱 What I'm Learning
-
-```text
-Python
-├── OOP
-├── Data Structures
-├── APIs
-├── Automation
-└── Backend Development
-
-AI / ML
-├── NumPy
-├── Pandas
-├── Scikit-learn
-├── Model Evaluation
-└── ML Pipelines
-
-Generative AI
-├── Prompt Engineering
-├── Context Engineering
-├── LLMs
-├── RAG
-└── Agentic AI
-
-Engineering
-├── Git / GitHub
-├── Linux
-├── SQL
-├── Cloud
-└── Deployment
-```
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="YOUR_EMAIL_ADDRESS">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-## 💡 My Philosophy
-
-> **Learn → Build → Break → Debug → Improve → Repeat.**
-
-I'm always open to learning, collaborating, and building interesting projects around **AI, software, IoT, and intelligent systems**.
-
----
-
-<p align="center">
-  <b>⭐ If you find something interesting here, feel free to explore my repositories!</b>
-</p>
-
-<p align="center">
-  <i>Building today. Learning every day. Engineering the future. 🚀</i>
-</p>
+Electronics & Communication Engineering
+                 │
+                 ▼
+        Embedded Systems
+                 │
+                 ▼
+               IoT
+                 │
+                 ▼
+              Python
+                 │
+                 ▼
+          Data & Programming
+                 │
+                 ▼
+            AI / ML
+                 │
+                 ▼
+          Generative AI
+                 │
+                 ▼
+               LLMs
+                 │
+                 ▼
+       Context Engineering
+                 │
+                 ▼
+           Agentic AI
+                 │
+                 ▼
+          AI Engineering 🚀
