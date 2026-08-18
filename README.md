@@ -1,103 +1,151 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Rohit%20Raj&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Python%20%7C%20Generative%20AI%20%7C%20IoT&descAlignY=58&descSize=20"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                         HERO SECTION                           -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,30:111827,65:172554,100:312E81&height=250&section=header&text=ROHIT%20RAJ&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20PYTHON%20%7C%20GENERATIVE%20AI%20%7C%20IoT&descAlignY=60&descSize=20"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=850&lines=Assistant+System+Engineer+%40+TCS;Python+%7C+AI%2FML+%7C+Generative+AI;Exploring+LLMs+%26+Context+Engineering;Building+AI-Powered+Applications;IoT+%7C+Embedded+Systems;Learning+%E2%86%92+Building+%E2%86%92+Evolving+%E2%9A%A1"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=700&color=36BCF7&center=true&vCenter=true&width=750&lines=Assistant+System+Engineer+%40+TCS;Python+%7C+AI%2FML+%7C+Generative+AI;Exploring+LLMs+%26+Context+Engineering;Building+AI-Powered+Applications;IoT+%7C+Embedded+Systems;Learning+%7C+Building+%7C+Experimenting+🚀"/>
+<img src="https://img.shields.io/badge/ROLE-ASSISTANT%20SYSTEM%20ENGINEER-2563EB?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/FOCUS-AI%20%26%20GENAI-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/POWER-PYTHON-0EA5E9?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/ORIGIN-IoT%20%26%20EMBEDDED-0891B2?style=for-the-badge"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Assistant%20System%20Engineer-TCS-1f6feb?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Python-AI%20%7C%20Automation-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Generative%20AI-Exploring-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/IoT-Embedded%20Systems-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=iemrohitt&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=iemrohitt&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# ⚡ `SYSTEM.INIT()`
 
-```python
-class RohitRaj:
-
-    role = "Assistant System Engineer @ TCS"
-
-    education = "B.Tech - Electronics & Communication Engineering"
-
-    interests = [
-        "Python",
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Generative AI",
-        "LLMs",
-        "Context Engineering",
-        "Agentic AI",
-        "IoT",
-        "Embedded Systems"
-    ]
-
-    currently_learning = [
-        "Advanced Python",
-        "RAG",
-        "LLM Applications",
-        "Agentic AI",
-        "Context Engineering",
-        "AI Engineering"
-    ]
-
-    philosophy = "Learn → Build → Break → Debug → Improve"
-
-    goal = "Become a strong AI Engineer 🚀"
+```text
+╔══════════════════════════════════════════════════════════════════╗
+║                     ROHIT RAJ // AI SYSTEM                      ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  STATUS        : ONLINE                                          ║
+║  ROLE          : ASSISTANT SYSTEM ENGINEER @ TCS                 ║
+║  DOMAIN        : SOFTWARE + ARTIFICIAL INTELLIGENCE              ║
+║  FOUNDATION    : ELECTRONICS & COMMUNICATION ENGINEERING         ║
+║                                                                  ║
+║  CURRENT MODE  : LEARNING + BUILDING                             ║
+║                                                                  ║
+║  PRIMARY       : Python                                          ║
+║  AI            : Machine Learning / Generative AI                ║
+║  INTELLIGENCE  : LLMs / RAG / Context Engineering               ║
+║  NEXT LEVEL    : Agentic AI / AI Engineering                    ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
-
-I'm an **Assistant System Engineer at Tata Consultancy Services (TCS)** with a background in **Electronics & Communication Engineering**.
-
-My journey started with **embedded systems and IoT**, where I worked with Raspberry Pi, sensors, Python and cloud-based monitoring.
-
-Today, I'm expanding that foundation toward **AI, Machine Learning, Generative AI, LLM applications, RAG, Context Engineering and Agentic AI**.
-
-I believe the best way to learn technology is to **build real things, experiment, debug failures and continuously improve.**
 
 ---
 
-# 🧠 What I'm Exploring
+# 👋 About Me
+
+I'm **Rohit Raj**, an **Assistant System Engineer at Tata Consultancy Services (TCS)** with a background in **Electronics & Communication Engineering**.
+
+My technical journey started with **electronics, embedded systems and IoT**, where I worked with Raspberry Pi, sensors, Python and cloud platforms.
+
+Now I'm moving deeper into the software and AI ecosystem:
+
+```text
+Electronics
+     ↓
+Embedded Systems
+     ↓
+IoT
+     ↓
+Python
+     ↓
+Machine Learning
+     ↓
+Generative AI
+     ↓
+LLMs
+     ↓
+RAG
+     ↓
+Context Engineering
+     ↓
+Agentic AI
+     ↓
+        ⚡ AI ENGINEERING
+```
+
+I enjoy learning through **hands-on projects, experimentation, debugging and continuous improvement**.
+
+> 「 The goal isn't to know everything.
+> The goal is to keep evolving. 」
+
+---
+
+# 🧠 `CURRENT_OBJECTIVES`
 
 <div align="center">
 
-| Area                       | Focus                                              |
-| -------------------------- | -------------------------------------------------- |
-| 🐍 **Python**              | Automation • APIs • OOP • Data Structures          |
-| 🤖 **AI / ML**             | ML Algorithms • Data Processing • Model Evaluation |
-| ✨ **Generative AI**        | LLM Applications • Prompt Engineering              |
-| 🧠 **LLMs**                | RAG • Embeddings • Tool Calling                    |
-| 🧩 **Context Engineering** | Context Design • Retrieval • AI Workflows          |
-| 🤝 **Agentic AI**          | Agents • Tools • Multi-step Workflows              |
-| 🌐 **IoT**                 | Sensors • Raspberry Pi • Cloud Monitoring          |
-| ☁️ **Cloud**               | Cloud Fundamentals • AI Deployment                 |
+| ⚔️ Mission                 | 🎯 Objective                                            |
+| :------------------------- | :------------------------------------------------------ |
+| 🐍 **Python**              | Become strong in advanced Python & software development |
+| 🤖 **AI / ML**             | Build practical machine-learning systems                |
+| ✨ **Generative AI**        | Develop LLM-powered applications                        |
+| 🧠 **LLMs**                | Understand RAG, embeddings & tool calling               |
+| 🧩 **Context Engineering** | Design better AI context & workflows                    |
+| 🤝 **Agentic AI**          | Build autonomous multi-step AI systems                  |
+| ☁️ **Cloud**               | Learn AI deployment & cloud fundamentals                |
+| 🚀 **AI Engineering**      | Build production-oriented AI applications               |
 
 </div>
 
 ---
 
-# ⚡ Tech Stack
+# ⚡ `POWER_STATS`
 
-### 🐍 Programming
+```text
+                    ROHIT RAJ
+                ─────────────────
+                   AI ENGINEER
+                ─────────────────
 
-<p align="left">
+🐍 Python              █████████░░  85%
+🌐 IoT                 ████████░░░  80%
+💾 SQL                 ███████░░░░  70%
+🤖 Machine Learning    ███████░░░░  70%
+✨ Generative AI       ███████░░░░  70%
+🧠 LLMs                ██████░░░░░  60%
+🔎 RAG                 ██████░░░░░  60%
+🧩 Context Engineering█████░░░░░░  50%
+🤝 Agentic AI          █████░░░░░░  50%
+☁️ Cloud               █████░░░░░░  50%
+```
+
+> ⚠️ These represent my current learning focus, not formal proficiency scores.
+
+---
+
+# 🛠️ `TECH_STACK`
+
+## 🐍 Programming
+
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java"/>
 
 </p>
 
-### 🤖 AI / Machine Learning
+---
 
-<p align="left">
+## 🤖 AI / Machine Learning
+
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=python"/>
 
@@ -107,43 +155,51 @@ I believe the best way to learn technology is to **build real things, experiment
 
 </p>
 
-### 🧠 Generative AI
+---
 
-<p align="left">
+## 🧠 Generative AI
 
-<img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-0A7B83?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Context%20Engineering-00695C?style=for-the-badge"/>
+<p align="center">
+
+<img src="https://img.shields.io/badge/Generative%20AI-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Context%20Engineering-0F766E?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Agentic%20AI-111827?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 
 </p>
 
-### 🌐 IoT / Embedded
+---
 
-<p align="left">
+## 🌐 IoT / Embedded Systems
+
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=raspberrypi,linux"/>
 
-<img src="https://img.shields.io/badge/IoT-0066FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Embedded%20Systems-333333?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IoT-0284C7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embedded%20Systems-334155?style=for-the-badge"/>
 
 </p>
 
-### 🗄️ Database
+---
 
-<p align="left">
+## 🗄️ Database
+
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=mysql"/>
 
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL-0369A1?style=for-the-badge"/>
 
 </p>
 
-### 🛠️ Tools
+---
 
-<p align="left">
+## 🔧 Development Tools
+
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
 
@@ -151,24 +207,28 @@ I believe the best way to learn technology is to **build real things, experiment
 
 ---
 
-# 🚀 Featured Projects
+# ⚔️ `FEATURED_PROJECTS`
 
-## 🌦️ IoT Weather Reporting & Prediction System
+## 🌦️ PROJECT 01 — WEATHER REPORTING SYSTEM
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Raspberry%20Pi-3B%2B-A22846?style=flat-square&logo=raspberrypi"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/ThingSpeak-Cloud-00A8E8?style=flat-square"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-Prediction-F7931E?style=flat-square"/>
-
-</div>
-
-An IoT-based environmental monitoring and prediction system built using **Raspberry Pi**.
+```text
+╔══════════════════════════════════════════════════════════════════╗
+║                     🌦️ WEATHER SYSTEM                           ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  PLATFORM       Raspberry Pi 3 B+                                ║
+║  LANGUAGE       Python                                           ║
+║  CLOUD          ThingSpeak                                       ║
+║  INTELLIGENCE   Machine Learning                                 ║
+║                                                                  ║
+║  STATUS         ████████████████████ COMPLETE                    ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
 ### 🔥 Features
 
-* 🌡️ Real-time temperature monitoring
+* 🌡️ Temperature monitoring
 * 💧 Humidity monitoring
 * 🌬️ Atmospheric pressure monitoring
 * 🌧️ Rain detection
@@ -177,172 +237,213 @@ An IoT-based environmental monitoring and prediction system built using **Raspbe
 * 📊 Environmental data collection
 * 🤖 Machine-learning-based prediction
 
+### 🧰 Technologies
+
+`Python` `Raspberry Pi` `DHT11` `BMP180` `Rain Sensor` `ThingSpeak` `Machine Learning`
+
 ### 🔗 Repository
 
-**[Weather Reporting System using Raspberry Pi](https://github.com/iemrohitt/Weather_Reporting_System_using_Raspberrypi)**
+👉 **[Weather Reporting System using Raspberry Pi](https://github.com/iemrohitt/Weather_Reporting_System_using_Raspberrypi)**
 
 ---
 
-## 🤖 Machine Learning Lab
-
-A collection of experiments designed to strengthen practical Machine Learning skills.
-
-### Topics
+# 🤖 PROJECT 02 — MACHINE LEARNING LAB
 
 ```text
-Data Collection
-      ↓
-Data Cleaning
-      ↓
-Exploratory Data Analysis
-      ↓
-Feature Engineering
-      ↓
-Model Training
-      ↓
-Evaluation
-      ↓
-Prediction
+                 DATA
+                  │
+                  ▼
+             🧹 CLEANING
+                  │
+                  ▼
+              📊 EDA
+                  │
+                  ▼
+          ⚙️ FEATURE ENGINEERING
+                  │
+                  ▼
+             🤖 MODEL
+                  │
+                  ▼
+             📈 EVALUATION
+                  │
+                  ▼
+             🎯 PREDICTION
 ```
 
-### 🔬 Areas
+### Areas
 
-* NumPy
-* Pandas
 * Data preprocessing
+* Exploratory Data Analysis
 * Regression
 * Classification
 * Model evaluation
-* Scikit-learn
-* ML pipelines
+* Scikit-learn workflows
+* ML experimentation
 
-🔗 **Repository:** `https://github.com/YOUR_USERNAME/machine-learning-lab`
+🔗 `https://github.com/YOUR_USERNAME/machine-learning-lab`
 
 ---
 
-## 🧠 Generative AI & LLM Lab
+# 🧠 PROJECT 03 — GENERATIVE AI LAB
 
-A continuously evolving laboratory for experimenting with modern AI applications.
+```text
+╔══════════════════════════════════════════════════════════════════╗
+║                       🧠 GENAI LAB                              ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  PROMPTS                                                         ║
+║     ↓                                                            ║
+║  CONTEXT                                                         ║
+║     ↓                                                            ║
+║  LLM                                                             ║
+║     ↓                                                            ║
+║  EMBEDDINGS                                                      ║
+║     ↓                                                            ║
+║  RAG                                                             ║
+║     ↓                                                            ║
+║  TOOLS                                                           ║
+║     ↓                                                            ║
+║  AGENTS                                                          ║
+║                                                                  ║
+║                ⚡ BUILDING INTELLIGENT SYSTEMS                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
 ### Exploring
 
-```text
-Prompt Engineering
-        ↓
-Context Engineering
-        ↓
-LLMs
-        ↓
-Embeddings
-        ↓
-RAG
-        ↓
-Tool Calling
-        ↓
-Agents
-        ↓
-Agentic AI
-```
-
-### 🔬 Experiments
-
-* LLM API integration
-* Prompt engineering
-* Context engineering
-* Retrieval-Augmented Generation
+* Prompt Engineering
+* Context Engineering
+* LLM APIs
 * Embeddings
+* RAG
+* Vector search
 * Tool/function calling
 * LangChain
-* Agentic workflows
+* Agentic AI
 
-🔗 **Repository:** `https://github.com/YOUR_USERNAME/genai-lab`
-
----
-
-# 🏢 Professional Journey
-
-### 💼 Assistant System Engineer — Tata Consultancy Services
-
-**2026 → Present**
-
-Currently strengthening my software engineering and AI capabilities while exploring how modern AI technologies can be applied to real-world enterprise systems.
-
-### 🎓 Electronics & Communication Engineering
-
-My engineering background gave me a strong foundation in:
-
-* Electronics
-* Embedded Systems
-* Microcontrollers
-* Sensors
-* Communication Systems
-* Digital Electronics
-* IoT
+🔗 `https://github.com/YOUR_USERNAME/genai-lab`
 
 ---
 
-# 🗺️ My Journey
+# 🧩 `AI_EVOLUTION`
+
+<div align="center">
 
 ```text
-        🎓 Electronics & Communication
-                    │
-                    ▼
-          ⚡ Electronics & Hardware
-                    │
-                    ▼
-             🔧 Embedded Systems
-                    │
-                    ▼
-                 🌐 IoT
-                    │
-                    ▼
-               🐍 Python
-                    │
-                    ▼
-             📊 Data & ML
-                    │
-                    ▼
-             🤖 Artificial Intelligence
-                    │
-                    ▼
-            ✨ Generative AI
-                    │
-                    ▼
-                🧠 LLMs
-                    │
-                    ▼
-          🧩 Context Engineering
-                    │
-                    ▼
-             🤝 Agentic AI
-                    │
-                    ▼
-            🚀 AI Engineering
+             ┌──────────────────────┐
+             │  ELECTRONICS & ECE   │
+             └──────────┬───────────┘
+                        │
+                        ▼
+             ┌──────────────────────┐
+             │ EMBEDDED SYSTEMS ⚙️ │
+             └──────────┬───────────┘
+                        │
+                        ▼
+             ┌──────────────────────┐
+             │       IoT 🌐         │
+             └──────────┬───────────┘
+                        │
+                        ▼
+             ┌──────────────────────┐
+             │      PYTHON 🐍       │
+             └──────────┬───────────┘
+                        │
+                        ▼
+             ┌──────────────────────┐
+             │      AI / ML 🤖      │
+             └──────────┬───────────┘
+                        │
+                        ▼
+             ┌──────────────────────┐
+             │   GENERATIVE AI ✨   │
+             └──────────┬───────────┘
+                        │
+                        ▼
+             ┌──────────────────────┐
+             │       LLMs 🧠        │
+             └──────────┬───────────┘
+                        │
+                        ▼
+             ┌──────────────────────┐
+             │    RAG 🔎            │
+             └──────────┬───────────┘
+                        │
+                        ▼
+             ┌──────────────────────┐
+             │ CONTEXT ENGINEERING  │
+             └──────────┬───────────┘
+                        │
+                        ▼
+             ┌──────────────────────┐
+             │   AGENTIC AI 🤝      │
+             └──────────┬───────────┘
+                        │
+                        ▼
+             ╔══════════════════════╗
+             ║   ⚡ AI ENGINEER     ║
+             ╚══════════════════════╝
+```
+
+</div>
+
+---
+
+# 🎮 `CHARACTER_PROFILE`
+
+```text
+╔══════════════════════════════════════════════════════════════════╗
+║                       CHARACTER PROFILE                          ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  NAME        : ROHIT RAJ                                         ║
+║  CLASS       : AI ENGINEER                                       ║
+║  ROLE        : ASSISTANT SYSTEM ENGINEER                         ║
+║  GUILD       : TCS                                               ║
+║                                                                  ║
+║  ELEMENTS    :                                                   ║
+║               ⚡ Python                                           ║
+║               🧠 Artificial Intelligence                          ║
+║               ✨ Generative AI                                   ║
+║               🌐 IoT                                              ║
+║               ⚙️ Embedded Systems                                ║
+║                                                                  ║
+║  SPECIAL     :                                                   ║
+║               Context Engineering                                ║
+║               RAG                                                ║
+║               LLM Applications                                   ║
+║                                                                  ║
+║  PASSIVE     : Never Stop Learning                               ║
+║                                                                  ║
+║  ULTIMATE    : Build Intelligent Systems 🚀                     ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-# 📚 Current Learning Roadmap
+# 📚 `CURRENT_TRAINING_ARC`
 
-### Phase 01 — 🐍 Python
+### 🐍 Python Arc
 
 ```text
-Python Fundamentals
-       ↓
+Fundamentals
+     ↓
 OOP
-       ↓
+     ↓
 Data Structures
-       ↓
+     ↓
 Algorithms
-       ↓
+     ↓
 APIs
-       ↓
+     ↓
 Automation
-       ↓
+     ↓
 Advanced Python
 ```
 
-### Phase 02 — 🤖 Machine Learning
+### 🤖 Machine Learning Arc
 
 ```text
 NumPy
@@ -362,7 +463,7 @@ Evaluation
 ML Pipelines
 ```
 
-### Phase 03 — 🧠 Generative AI
+### 🧠 GenAI Arc
 
 ```text
 LLM Fundamentals
@@ -380,31 +481,39 @@ RAG
 Tool Calling
        ↓
 Agents
-```
-
-### Phase 04 — 🚀 AI Engineering
-
-```text
-AI Applications
        ↓
-Backend APIs
-       ↓
-RAG Systems
-       ↓
-Agentic Workflows
-       ↓
-Cloud Deployment
-       ↓
-Production AI Systems
+Agentic AI
 ```
 
 ---
 
-# 📊 GitHub Analytics
+# 🏢 `PROFESSIONAL_STATUS`
+
+```text
+╔══════════════════════════════════════════════════════════════════╗
+║                     CURRENT MISSION                              ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  💼 Assistant System Engineer @ Tata Consultancy Services        ║
+║                                                                  ║
+║  🐍 Strengthening Python                                         ║
+║  🤖 Exploring AI / ML                                            ║
+║  ✨ Building Generative AI knowledge                              ║
+║  🧠 Learning LLM applications                                    ║
+║  🧩 Exploring Context Engineering                                ║
+║  🤝 Learning Agentic AI                                          ║
+║  🌐 Building on IoT foundation                                   ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+# 📊 `GITHUB_STATS`
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=iemrohitt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=iemrohitt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"/>
 
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iemrohitt&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -412,17 +521,17 @@ Production AI Systems
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 `STREAK_MODE`
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=iemrohitt&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=iemrohitt&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 `ACHIEVEMENTS`
 
 <div align="center">
 
@@ -432,86 +541,115 @@ Production AI Systems
 
 ---
 
-# 📈 Contribution Graph
+# 📈 `ACTIVITY_MATRIX`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iemrohitt&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iemrohitt&theme=tokyo-night&hide_border=true&area=true&custom_title=ROHIT%20RAJ%20-%20CODING%20ACTIVITY"/>
 
 </div>
 
 ---
 
-# 🐍 Watch My Contributions Get Eaten
+# 🐍 `CONTRIBUTION_BEAST`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
 
 </div>
 
 ---
 
-# 💡 Developer Philosophy
-
-<div align="center">
-
-### "Don't just learn technology. Build with it."
+# 🎯 `2026_MAIN_QUESTS`
 
 ```text
-Learn
-  ↓
-Understand
-  ↓
-Build
-  ↓
-Break
-  ↓
-Debug
-  ↓
-Improve
-  ↓
-Repeat 🔁
+[████████████████████░░] Python Mastery
+[███████████████░░░░░░░] Machine Learning
+[██████████████░░░░░░░░] Generative AI
+[████████████░░░░░░░░░░] LLM Applications
+[███████████░░░░░░░░░░░] RAG
+[██████████░░░░░░░░░░░░] Context Engineering
+[████████░░░░░░░░░░░░░░] Agentic AI
+[██████░░░░░░░░░░░░░░░░] Cloud / Deployment
 ```
+
+### 🎯 Missions
+
+* [ ] 🐍 Strengthen advanced Python
+* [ ] 🤖 Build practical ML projects
+* [ ] 🧠 Build RAG applications
+* [ ] ✨ Build LLM-powered applications
+* [ ] 🧩 Develop Context Engineering skills
+* [ ] 🤝 Build Agentic AI systems
+* [ ] ☁️ Learn AI deployment
+* [ ] 🚀 Build production-style AI projects
+* [ ] 🌐 Contribute to open source
+
+---
+
+# 💭 `DEVELOPER_PHILOSOPHY`
+
+<div align="center">
+
+```text
+        ┌───────────────┐
+        │     LEARN     │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │   UNDERSTAND  │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │     BUILD     │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │     BREAK     │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │     DEBUG     │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │    IMPROVE    │
+        └───────┬───────┘
+                ↓
+             🔁 REPEAT
+```
+
+### 「Learn. Build. Evolve.」
 
 </div>
 
 ---
 
-# 🎯 2026 Goals
-
-* [ ] 🐍 Become stronger in advanced Python
-* [ ] 🤖 Build practical ML projects
-* [ ] 🧠 Build production-style RAG applications
-* [ ] ✨ Build LLM-powered applications
-* [ ] 🧩 Master Context Engineering fundamentals
-* [ ] 🤝 Build Agentic AI projects
-* [ ] ☁️ Learn AI deployment & cloud fundamentals
-* [ ] 🚀 Build a strong AI Engineering portfolio
-* [ ] 📚 Contribute to open-source projects
-
----
-
-# 🌐 Let's Connect
+# 🌐 `CONNECT`
 
 <div align="center">
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 
 <a href="https://github.com/iemrohitt">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
+
+### ⚡ Building the next version of myself.
+
+### 🧠 AI • 🐍 Python • ✨ GenAI • 🌐 IoT
+
 </div>
 
-<br>
+---
 
 <div align="center">
 
-### 🚀 Learning today. Building tomorrow.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,40:172554,70:111827,100:050816&height=150&section=footer"/>
 
 </div>
