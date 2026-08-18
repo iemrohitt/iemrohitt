@@ -100,7 +100,7 @@ An IoT-based weather monitoring and prediction system developed using Raspberry 
 - 📊 Environmental data analysis
 
 🔗 **Repository:**  
-`https://github.com/YOUR_USERNAME/iot-weather-reporting-system`
+`https://github.com/iemrohitt/Weather_Reporting_System_using_Raspberrypi`
 
 ---
 
